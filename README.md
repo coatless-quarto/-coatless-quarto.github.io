@@ -1,2 +1,3 @@
-# -coatless-quarto.github.io
+# coatless-quarto.github.io
+
 Quarto projects
